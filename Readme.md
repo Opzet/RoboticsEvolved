@@ -1,1 +1,2 @@
-git@github.com:Opzet/RoboticsEvolved.git
+https://dev.azure.com/RoboticsEvolved
+
